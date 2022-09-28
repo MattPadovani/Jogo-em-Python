@@ -1,2 +1,2 @@
 # Jogo-em-Python
-Jogo em Python adivinhação com Menu com duas opçoes
+Jogo em Python com Menu com duas opçoes (Adivinhação e Forca)
